@@ -1,2 +1,2 @@
 # excel
-change alignas master
+change alignas alignas
