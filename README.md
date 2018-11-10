@@ -1,2 +1,2 @@
 # excel
-change alignas
+change alignas alignas
